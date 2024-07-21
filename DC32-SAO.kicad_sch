@@ -374,7 +374,7 @@
     (uuid 0b820862-83d5-4dc0-a8cf-9bd5f1a499cc)
     (property "Reference" "D3" (id 0) (at 105.7275 59.69 0))
     (property "Value" "LED" (id 1) (at 105.7275 62.23 0))
-    (property "Footprint" "LEDs:LED_0606" (id 2) (at 104.14 67.31 0)
+    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 104.14 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 67.31 0)
@@ -404,7 +404,7 @@
     (uuid 303269a8-04f0-413a-84f6-c72d1bf91057)
     (property "Reference" "D1" (id 0) (at 105.7275 39.37 0))
     (property "Value" "LED" (id 1) (at 105.7275 41.91 0))
-    (property "Footprint" "LEDs:LED_0606" (id 2) (at 104.14 46.99 0)
+    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 104.14 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 46.99 0)
@@ -468,7 +468,7 @@
     (uuid b1e9978e-60c7-4b92-827b-0033dd1b8c0c)
     (property "Reference" "D5" (id 0) (at 105.7275 80.01 0))
     (property "Value" "LED" (id 1) (at 105.7275 82.55 0))
-    (property "Footprint" "LEDs:LED_0606" (id 2) (at 104.14 87.63 0)
+    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 104.14 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 87.63 0)
@@ -513,7 +513,7 @@
     (uuid f085cf9f-e2ae-49e0-961e-63b6cbb4d40f)
     (property "Reference" "D4" (id 0) (at 105.7275 69.85 0))
     (property "Value" "LED" (id 1) (at 105.7275 72.39 0))
-    (property "Footprint" "LEDs:LED_0606" (id 2) (at 104.14 77.47 0)
+    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 104.14 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 77.47 0)
@@ -528,7 +528,7 @@
     (uuid fc3462c2-5190-4505-9e25-4540f82e78cb)
     (property "Reference" "D2" (id 0) (at 105.7275 49.53 0))
     (property "Value" "LED" (id 1) (at 105.7275 52.07 0))
-    (property "Footprint" "LEDs:LED_0606" (id 2) (at 104.14 57.15 0)
+    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 104.14 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 57.15 0)
@@ -544,19 +544,19 @@
 
   (symbol_instances
     (path "/303269a8-04f0-413a-84f6-c72d1bf91057"
-      (reference "D1") (unit 1) (value "LED") (footprint "LEDs:LED_0606")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/fc3462c2-5190-4505-9e25-4540f82e78cb"
-      (reference "D2") (unit 1) (value "LED") (footprint "LEDs:LED_0606")
+      (reference "D2") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/0b820862-83d5-4dc0-a8cf-9bd5f1a499cc"
-      (reference "D3") (unit 1) (value "LED") (footprint "LEDs:LED_0606")
+      (reference "D3") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/f085cf9f-e2ae-49e0-961e-63b6cbb4d40f"
-      (reference "D4") (unit 1) (value "LED") (footprint "LEDs:LED_0606")
+      (reference "D4") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/b1e9978e-60c7-4b92-827b-0033dd1b8c0c"
-      (reference "D5") (unit 1) (value "LED") (footprint "LEDs:LED_0606")
+      (reference "D5") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/5681b4fd-442e-49d7-8fe1-5d17e8cfa0a0"
       (reference "J1") (unit 1) (value "Conn_01x06_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD")
